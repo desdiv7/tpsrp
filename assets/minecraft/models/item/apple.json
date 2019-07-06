@@ -1,0 +1,29 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "item/apple"
+    },
+    "overrides": [
+    	{"predicate": {"custom_model_data":1}, "model":"pokeitem/berry/aguav"},
+    	{"predicate": {"custom_model_data":2}, "model":"pokeitem/berry/cheri"},
+    	{"predicate": {"custom_model_data":3}, "model":"pokeitem/berry/figy"},
+    	{"predicate": {"custom_model_data":4}, "model":"pokeitem/berry/ganlon"},
+    	{"predicate": {"custom_model_data":5}, "model":"pokeitem/berry/iapapa"},
+    	{"predicate": {"custom_model_data":6}, "model":"pokeitem/berry/jaboca"},
+    	{"predicate": {"custom_model_data":7}, "model":"pokeitem/berry/lansat"},
+    	{"predicate": {"custom_model_data":8}, "model":"pokeitem/berry/leppa"},
+    	{"predicate": {"custom_model_data":9}, "model":"pokeitem/berry/liechi"},
+    	{"predicate": {"custom_model_data":10}, "model":"pokeitem/berry/lum"},
+    	{"predicate": {"custom_model_data":11}, "model":"pokeitem/berry/mago"},
+    	{"predicate": {"custom_model_data":12}, "model":"pokeitem/berry/micle"},
+    	{"predicate": {"custom_model_data":13}, "model":"pokeitem/berry/oran"},
+    	{"predicate": {"custom_model_data":14}, "model":"pokeitem/berry/pecha"},
+    	{"predicate": {"custom_model_data":15}, "model":"pokeitem/berry/persim"},
+    	{"predicate": {"custom_model_data":16}, "model":"pokeitem/berry/rawst"},
+    	{"predicate": {"custom_model_data":17}, "model":"pokeitem/berry/salac"},
+    	{"predicate": {"custom_model_data":18}, "model":"pokeitem/berry/sitrus"},
+    	{"predicate": {"custom_model_data":19}, "model":"pokeitem/berry/starf"},
+    	{"predicate": {"custom_model_data":20}, "model":"pokeitem/berry/wiki"}
+    ]
+}
+}

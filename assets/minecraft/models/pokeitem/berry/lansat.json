@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "pokeitem/berry/lansat"
+    },
+    "overrides": [
+    	{"predicate": {"custom_model_data":9}, "model":"pokeitem/berry/lansat"}
+    ]
+}
+}

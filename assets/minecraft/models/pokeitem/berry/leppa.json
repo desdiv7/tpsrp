@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "pokeitem/berry/leppa"
+    },
+    "overrides": [
+    	{"predicate": {"custom_model_data":8}, "model":"pokeitem/berry/leppa"}
+    ]
+}
+}

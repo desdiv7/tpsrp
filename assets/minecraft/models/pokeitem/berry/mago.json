@@ -1,0 +1,10 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "pokeitem/berry/mago"
+    },
+    "overrides": [
+    	{"predicate": {"custom_model_data":12}, "model":"pokeitem/berry/mago"}
+    ]
+}
+}
