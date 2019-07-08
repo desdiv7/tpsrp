@@ -1,7 +1,7 @@
 {
-    "parent": "item/generated",
+    "parent": "block/note_block",
     "textures": {
-        "layer0": "item/note_block"
+        "layer0": "block/note_block"
     },
     "overrides": [
     	{"predicate": {"custom_model_data":1}, "model":"pokeitem/azure_flute"}
